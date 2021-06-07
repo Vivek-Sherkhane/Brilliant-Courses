@@ -1,6 +1,65 @@
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+
+## Description 
+
+This project is  the frontend of an e-learning site for students.
+
+## Set-Up required
+
+- Install any text editor(VScode[https://code.visualstudio.com/download], Atom[https://atom.io/]) of your choice 
+
+- Install any command Line terminal (HyperTerminal[https://hyper.is/], cmd) 
+
+## commands for running the project
+
+## 🛠️ Installation Steps
+###  <code><img height="20" src="https://github.com/npm/logos/blob/master/npm%20logo/npm-logo-red.png"></code>
+  1. open Terminal and clone the repo
+
+```bash
+  git clone https://github.com/Vivek-Sherkhane/Brilliant-Courses.git
+```
+ 2. cd over 
+ 
+```bash
+   cd Brilliant-Courses
+```
+  3. Install packages and dependencies
+
+```bash
+  npm install
+  npm install react react-dom react-router-dom
+```
+ 
+  4. Run the app
+
+```bash
+  npm start
+```
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+
+The page will reload if you make edits.\
+You will also see any lint errors in the console.
+
+ You are all set!
+
+- And you will be redirected to the HomePage of Brilliant-Courses.
+
+- By clicking on Warmup puzzles of introduction section you will be redirected to puzzles page.
+
+
+- Creating these two pages was the given task .
+
+
+
+
+
+
 
 ## Available Scripts
 
@@ -8,11 +67,7 @@ In the project directory, you can run:
 
 ### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
 
 ### `npm test`
 
@@ -68,3 +123,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
