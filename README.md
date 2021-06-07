@@ -65,9 +65,6 @@ You will also see any lint errors in the console.
 
 In the project directory, you can run:
 
-### `npm start`
-
-
 
 ### `npm test`
 
